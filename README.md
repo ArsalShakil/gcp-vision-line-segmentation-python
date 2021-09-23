@@ -58,5 +58,5 @@ words which belongs to each line.
 The algorithm successfully works for most of the slanted and slightly crumpled images. But it will fail to highly
 crumpled or folded images.
 
-## Credits: This is the python version of this github repo:
+## Credits: This is the NodeJS version of this github repo:
 https://github.com/sshniro/line-segmentation-algorithm-to-gcp-vision
