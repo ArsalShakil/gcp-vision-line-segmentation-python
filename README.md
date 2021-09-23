@@ -1,5 +1,4 @@
-**Line Segmentation/Ordering for OCR result from Google Cloud VIsion.
-**
+#### Line Segmentation/Ordering for OCR result from Google Cloud Vision.
 
 Google Vision provides 2 options for optical character recognition(OCR).
 
